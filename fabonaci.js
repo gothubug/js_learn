@@ -1,4 +1,4 @@
-function fabonaci(var index) 
+function fabonaci(index) 
 {
     if (index === 0) 
     {
