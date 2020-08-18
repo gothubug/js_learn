@@ -1,4 +1,4 @@
-function sum(var num)
+function sum(num)
 {
     if (num === 1) 
     {
